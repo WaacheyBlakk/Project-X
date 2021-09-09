@@ -1,1 +1,78 @@
-
+<!DOCTYPE html>
+<html lang="en">
+				<head>
+								<title>Science</title>
+								<style>
+												h1{color: Red; background: blue; text-align: Center;}
+												ordered{color: green;}
+												h2{font-size:18px;margin: 5px; color: orange;}
+												h3{color: violet;}
+								</style>
+				</head>
+				<body>
+						<div>
+										<h1>What is Science?</h1>
+										<h2>Science is the study of the universe and everything in it</h2>
+						</div>
+						<div>
+										<h1>Branches of Science</h1>
+										<h2>Science is made up of three(3) branches</h2>
+										<h3>
+														<Ordered>
+																		<ol>
+																						<li>Physics</li>
+																						<li>Chemistry</li>
+																						<li>Biology</li>																				
+																		</ol>
+																																																					
+														</Ordered >
+										</h3>
+						</div>
+						<ul>
+										<li>
+										<div>
+									<h2>Physics is the study of the physical world in which we find ourselves.</h2>
+										<h3>Physics deals with the study of:</h3>	
+										<ul style="color: red">
+														<li>Time</li>
+														<li>Space</li>
+														<li>Motion</li>
+														<li>Forces</li>
+														<li>For more about what Physics is all about <a href="https://www.britannica.com/science/physics-science">Click Here</a></li>
+										</ul>						
+						</div>
+						</li>
+						<li>
+						<div>
+										<h2>Chemistry is the study of the elements which can be found in the earth and also deals with the reactions of those elements.</h2>
+										<h3>
+														Chemistry deals with:
+										</h3>
+										<ul style="color: red">
+														<li>Elements</li>
+														<li>Reactions</li>
+														<li>Chemical makeup of things</li>
+														<li>For more about Chemistry <a href="https://www.britannica.com/science/chemistry-science">Click Here</a></li>
+										</ul>
+										
+						</div>
+						</li>
+						<li>
+						<div>
+										<h2>
+														Biology is the study of life.
+										</h2>
+										<h3>
+														Biology deals with:
+										</h3>
+										<ul style="color: red">
+														<li>Cells</li>
+														<li>Tissues</li>
+														<li>Organs</li>
+														<li>Systems</li>
+														<li>For more about Biology <a href="https://www.britannica.com/science/biology-science">Click Here</a></li>
+										</ul>
+						</div>		</ul></li>
+				</body>
+				
+</html>
